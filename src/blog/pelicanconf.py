@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 
-THEME = "/home/simon/repos/other/themes/flex"
+THEME = "/home/simon/repos/other/themes/Flex"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
